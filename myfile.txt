@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 canhpn
 bao giờ mới master git được đây
+=======
 canhpn ừ thì sao
  kệ chứ quan tâm gì
+>>>>>>> 936abbe78032a31050f148dc1f31616437203269
